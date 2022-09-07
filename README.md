@@ -12,7 +12,7 @@ This app is the first app I've developed with Swift. This application consists o
 <div class="row">
       <div class="column">
 <img width ='72px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/flutterio-icon.svg'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/swift-icon.svg'>
   </div>
 </div>
 
